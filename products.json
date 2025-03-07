@@ -1,0 +1,39 @@
+
+[
+    {
+        "id": 1,
+        "name":" hilsha",
+        "price": 20,
+        "image": "image/hilsha.png"
+    },
+    {
+        "id": 2,
+        "name":" Potato",
+        "price": 10,
+        "image": "image/potato.png"
+    },
+    {
+        "id": 3,
+        "name":" Fermented Yogurt",
+        "price": 10,
+        "image": "image/matha.png"
+    },
+    {
+        "id": 4,
+        "name":" Mustard Oil",
+        "price": 15,
+        "image": "image/sorshe-oil.png"
+    },
+    {
+        "id": 5,
+        "name":" Molasses Balls",
+        "price": 5,
+        "image": "image/gul.png"
+    },
+    {
+        "id": 6,
+        "name":"Rice",
+        "price": 200,
+        "image": "image/rice.png"
+    }
+]
